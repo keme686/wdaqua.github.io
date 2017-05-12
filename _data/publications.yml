@@ -75,5 +75,16 @@ Kacprzak2016:
 Koesten2017:
   year: 2016
   citation: "The Trials and Tribulations of Working with Structured Data - a Study on Information Seeking Behaviour. Laura Koesten, Emilia Kacprzak, Jeni Tennison, Elena Simperl. CHI 2017"
-
+Diefenbach2017a:
+  year: 2017
+  citation: "WDAqua-core0: A Question Answering Component for the Research Community.  Dennis Diefenbach, Kamal Singh, Pierre Maret. ESWC, 7th Open Challenge on Question Answering over Linked Data (QALD-7)"
+Diefenbach2017b:
+  year: 2017
+  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D"
+Diefenbach2017c:
+  year: 2017
+  citation: "Trill: A reusable Front-End for QA systems, Dennis Diefenbach, Shanzay Amjad, Andreas Both, Kamal Singh, Pierre Maret, ESWC P&D"
+Diefenbach2017d:
+  year: 2017
+  citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE"
 ---
