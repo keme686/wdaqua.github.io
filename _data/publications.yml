@@ -87,4 +87,11 @@ Diefenbach2017c:
 Diefenbach2017d:
   year: 2017
   citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE"
+Koesten2017a:
+  year: 2017
+  citation: "Searching Data Portals – More Complex Than We Thought?. Laura M Koesten, Jaspreet Singh. CHIIR 2017. Workshop on Supporting Complex Search Tasks." 
+Kacprzak2017:
+  year: 2017
+  citation: "A Query Log Analysis of Dataset Search. Emilia Kacprzak, Laura M Koesten, Luis-Daniel Ibáñ ez, Elena Simperl, Jeni Tennison. ICWE 2017"
+
 ---
