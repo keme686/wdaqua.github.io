@@ -87,4 +87,14 @@ Diefenbach2017c:
 Diefenbach2017d:
   year: 2017
   citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE"
+Diefenbach2017e:
+  year: 2017
+  citation: "SPARQLtoUser: Did the question answering system understand me?	Dennis Diefenbach, Youssef Dridi, Kamal Singh, Pierre Maret. ISWC Workshop"
+Diefenbach2017f:
+  year: 2017
+  citation: "Question Answering Benchmarks for Wikidata. Dennis Diefenbach, Thomas Pellissier Tanon, Kamal Singh, Pierre Maret. ISWC 2017"
+Diefenbach2017g:
+  year: 2017
+  citation: "Core Techniques of Question Answering Systems over Knowledge Bases: a Survey. Dennis Diefenbach, Vanessa Lopez, Kamal Singh, Pierre Maret. Knowledge and Information Systems"
+
 ---

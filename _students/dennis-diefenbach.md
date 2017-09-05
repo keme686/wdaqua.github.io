@@ -21,6 +21,9 @@ publications:
   - Diefenabch2017b
   - Diefenbach2017c
   - Diefenbach2017d
+  - Diefenbach2017e
+  - Diefenbach2017f
+  - Diefenbach2017g
 ---
 Question Answering (QA) over Knowledge-Bases (KBs) is a very intresting research topic. A KB is a collection of facts. For example DBpedia is a KB containing facts collected from Wikipedia like the birth date of persons, capitals of countries, meuseums in cities and many more. These facts are stored in machine readable formats and they can be retrived using queries over databases. The information contained into such KBs can be very intresting for end-users but we cannot require from them to write a formal query over a database. This is where Question Answering (QA) over KBs comes into play, i.e. to automatically transform a natural language question like "Who is the mayor of Paris?" to a formal query that can be executed over a KB.
 
