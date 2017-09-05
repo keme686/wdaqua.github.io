@@ -96,5 +96,10 @@ Diefenbach2017f:
 Diefenbach2017g:
   year: 2017
   citation: "Core Techniques of Question Answering Systems over Knowledge Bases: a Survey. Dennis Diefenbach, Vanessa Lopez, Kamal Singh, Pierre Maret. Knowledge and Information Systems"
-
+Koesten2017a:
+  year: 2017
+  citation: "Searching Data Portals – More Complex Than We Thought?. Laura M Koesten, Jaspreet Singh. CHIIR 2017. Workshop on Supporting Complex Search Tasks." 
+Kacprzak2017:
+  year: 2017
+  citation: "A Query Log Analysis of Dataset Search. Emilia Kacprzak, Laura M Koesten, Luis-Daniel Ibáñ ez, Elena Simperl, Jeni Tennison. ICWE 2017"
 ---
