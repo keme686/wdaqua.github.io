@@ -18,6 +18,7 @@ Endris2017:
 Piscopo2017a:
   year: 2017
   citation: "Wikidatians Are Born: Paths to Full Participation in a Collaborative Structured Knowledge Base. Alessandro Piscopo, Christopher Phethean, Elena Simperl. HICSS-50. 2017"
+  pdf: http://eprints.soton.ac.uk/401755/
 Piscopo2017b:
   year: 2017
   citation: "What do Wikidata and Wikipedia Have in Common?: An Analysis of their Use of External References. Alessandro Piscopo, Pavlos Vougiouklis, Lucie-Aimee Kaffee, Christopher Phethean, Jonathon Hare, and Elena Simperl. OpenSym '17. 2017"
@@ -149,4 +150,9 @@ Koesten2017a:
 Kacprzak2017:
   year: 2017
   citation: "A Query Log Analysis of Dataset Search. Emilia Kacprzak, Laura M Koesten, Luis-Daniel Ibáñ ez, Elena Simperl, Jeni Tennison. ICWE 2017"
+Niousha2017a:
+  year: 2017
+  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D"
+  pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Qanary.pdf
+
 ---
