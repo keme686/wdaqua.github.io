@@ -3,7 +3,7 @@ layout: student
 esr: 14
 name: Alessandro Piscopo
 image: alessandro.jpg
-project: How to Make a Good Collaborative Knowledge Graph: Data Quality and Community Dynamics in Wikidata
+project: How to Make a Good Collaborative Knowledge Graph. Data Quality and Community Dynamics in Wikidata
 host: soton
 start-date: 2015-04-13
 supervisors:
