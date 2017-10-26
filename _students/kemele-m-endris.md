@@ -14,6 +14,7 @@ supervisors:
 publications:
   - Endris2017s
   - Endris2017
+  - Endris2017m
   - Thakkar2016Wims
   - Shekarpour2016
   - Faisal2016
