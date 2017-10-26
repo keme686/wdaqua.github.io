@@ -1,13 +1,20 @@
 ---
+Endris2017m:
+  year: 2017
+  citation: "SMJoin: A Multi-way Join Operator for SPARQL queries, Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören, Semantics Conference 2017, Amsterdam, September 11 - 14. 2017"
+  pdf: https://www.researchgate.net/publication/318361204_SMJoin_A_Multi-way_Join_Operator_for_SPARQL_queries
 Endris2017s:
   year: 2017
   citation: "Dataset reuse: An analysis of references in community discussions, publications and data, Endris, Kemele and Giménez-García, José and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena, K-CAP 2017: Knowledge Capture Conference, December 4--6, 2017, Austin, TX, USA"
+  pdf: https://www.researchgate.net/publication/320550401_Dataset_reuse_An_analysis_of_references_in_community_discussions_publications_and_data
 Faisal2016:
   year: 2016
   citation: "Co-evolution of RDF Datasets, Faisal, Sidra; Endris, Kemele M; Shekarpour, Saeedeh; Auer, Sören; Vidal, Maria-Esther; International Conference on Web Engineering, 225-243, 2016, Springer"
+  pdf: https://www.researchgate.net/publication/291437285_Co-evolution_of_RDF_Datasets
 Endris2017:
   year: 2017
   citation: "MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates. Endris K.M., Galkin M., Lytra I., Mami M.N., Vidal ME., Auer S., In: Benslimane D., Damiani E., Grosky W., Hameurlain A., Sheth A., Wagner R. (eds) Database and Expert Systems Applications. DEXA 2017. Lecture Notes in Computer Science, vol 10438. Springer, Cham"
+  pdf: https://www.researchgate.net/publication/318362785_MULDER_Querying_the_Linked_Data_Web_by_Bridging_RDF_Molecule_Templates
 Piscopo2017a:
   year: 2017
   citation: "Wikidatians Are Born: Paths to Full Participation in a Collaborative Structured Knowledge Base. Alessandro Piscopo, Christopher Phethean, Elena Simperl. HICSS-50. 2017"
