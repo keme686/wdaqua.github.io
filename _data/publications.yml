@@ -1,4 +1,7 @@
 ---
+Endris2017s:
+  year: 2017
+  citation: "Dataset reuse: An analysis of references in community discussions, publications and data, Endris, Kemele and Giménez-García, José and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena, K-CAP 2017: Knowledge Capture Conference, December 4--6, 2017, Austin, TX, USA"
 Faisal2016:
   year: 2016
   citation: "Faisal, Sidra; Endris, Kemele M; Shekarpour, Saeedeh; Auer, Sören; Vidal, Maria-Esther; Co-evolution of RDF Datasets, International Conference on Web Engineering, 225-243, 2016, Springer"
@@ -35,17 +38,17 @@ Thakkar2016Wims:
   citation: "Are Linked Datasets fit for Open-domain Question Answering? A Quality Assessment. Harsh Thakkar, Kemele M. Endris, Jose M. Gimenez-Garcia, Jeremy Debattista, Christoph Lange, Sören Auer. WIMS 2016."
   url: http://dl.acm.org/citation.cfm?id=2912857
   pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/wims2016.pdf
-  Thakkar2017Litmus:
+Thakkar2017Litmus:
   year: 2017
   citation: "Towards an Open Extensible Framework for Empirical Benchmarking of Data Management Solutions: LITMUS. Harsh Thakkar ESWC 2017."
   url: https://link.springer.com/chapter/10.1007/978-3-319-58451-5_20
   pdf: https://www.researchgate.net/profile/Harsh_Thakkar2/publication/316109631_Towards_an_Open_Extensible_Framework_for_Empirical_Benchmarking_of_Data_Management_Solutions_LITMUS/links/58f0e236aca27289c2127053/Towards-an-Open-Extensible-Framework-for-Empirical-Benchmarking-of-Data-Management-Solutions-LITMUS.pdf
-  Thakkar2016Dexa:
+Thakkar2016Dexa:
   year: 2017
   citation: "Towards an Integrated Graph Algebra for Graph Pattern Matching with Gremlin. Harsh Thakkar, Dharmen Punjani, Sören Auer, and Maria-Esther Vidal. DEXA 2017."
   url: https://link.springer.com/chapter/10.1007/978-3-319-64468-4_6
   pdf: https://www.researchgate.net/publication/318404544_Towards_an_Integrated_Graph_Algebra_for_Graph_Pattern_Matching_with_Gremlin
-  Thakkar2016Semantics:
+Thakkar2016Semantics:
   year: 2017
   citation: "Trying Not to Die Benchmarking – Orchestrating RDF and Graph Data Management Solution Benchmarks Using LITMUS. Harsh Thakkar, Yashwant Keswani, Mohnish Dubey, Jens Lehmann, Sören Auer. Semantics 2017"
   url: to appear

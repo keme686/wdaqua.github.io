@@ -12,6 +12,7 @@ supervisors:
   - Christoph Lange
   - Ioanna Lytra
 publications:
+  - Endris2017s
   - Endris2017
   - Thakkar2016Wims
   - Shekarpour2016
