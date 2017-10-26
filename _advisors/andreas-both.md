@@ -3,6 +3,5 @@ layout: advisor
 name: Andreas Both	
 role: Head of Architecture, Web Technology and IT Research at DATEV eG (Germany)
 image: Andreas_Both.jpg
-institution: DATEV eG
 homepage: https://www.linkedin.com/in/andreas-both-94267222
 ---
