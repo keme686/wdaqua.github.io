@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 name: Frédérique Laforest
-role: TODO
+role: Professor at the University of Saint-Etienne
 image: FLaforestPhoto.png
 homepage: http://satin-ppl.telecom-st-etienne.fr/flaforest/
 institution: st-etienne
