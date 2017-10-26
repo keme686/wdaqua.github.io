@@ -13,7 +13,7 @@ supervisors:
   - Ioanna Lytra
 publications:
   - Endris2017
-  - Thakkar2016
+  - Thakkar2016Wims
   - Shekarpour2016
   - Faisal2016
 ---
