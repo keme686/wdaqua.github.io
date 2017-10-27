@@ -11,6 +11,8 @@ supervisors:
 email: A.Piscopo <at> soton.ac.uk
 twitter: aliossandro
 github: Aliossandro
+scholar: KJrgraoAAAAJ&hl
+orcid: 0000-0002-0362-4826
 publications:
   - Piscopo2017a
   - Piscopo2017b
