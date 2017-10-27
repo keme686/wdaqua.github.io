@@ -13,6 +13,7 @@ homepage: http://theodi.org/team/laura-koesten
 email: laura.koesten@theodi.org
 twitter: laurakoesten
 github: laurakoesten
+scholar: aqP9OKQAAAAJ
 publications:
   - Koesten2016
   - Kacprzak2016
