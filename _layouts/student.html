@@ -92,6 +92,16 @@ title: {{page.name}}
           <img src="{{site.baseurl}}/assets/images/github.png" />
         </a>
       {% endif %}
+      {% if page.scholar %}
+        <a href="https://scholar.google.com/citations?user={{page.scholar}}=en">
+          <img src="{{site.baseurl}}/assets/images/scholar.png" />
+        </a>
+      {% endif %}
+      {% if page.orcid %}
+        <a href="https://orcid.org/{{page.orcid}}">
+          <img src="{{site.baseurl}}/assets/images/orcid.png" />
+        </a>
+      {% endif %}
     </div>
   </div>
 </div>
