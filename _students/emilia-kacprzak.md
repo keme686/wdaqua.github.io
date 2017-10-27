@@ -9,6 +9,11 @@ start-date: 2015-11-16
 supervisors:
   - Jeni Tennison
   - Elena Simperl
+email: emilia.kacprzak <at> theodi.org
+twitter: kacprzakemilia
+github: chabrowa
+scholar: Gt97dy0AAAAJ
+orcid: 0000-0002-3784-2733
 publications:
   - Koesten2016
   - Kacprzak2016
