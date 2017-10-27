@@ -2,7 +2,7 @@
 layout: student
 esr: 7
 name: Dennis Diefenbach
-image: dennis.png
+image: Dennis_Diefenbach.jpg
 project: Question Answering over Knowledge-Bases
 host: st-etienne
 start-date: 2015-06-01
@@ -26,6 +26,7 @@ publications:
   - Diefenbach2017g
 email: dennis.diefenbach@univ-st-etienne.fr
 github: D063520
+scholar: IHizMRoAAAAJ&hl
 students:
   - st1:
     start: 09/16
