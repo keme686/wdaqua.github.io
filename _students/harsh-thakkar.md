@@ -6,15 +6,22 @@ image: Harsh.jpg
 project: Quality driven Dataset Discovery and Retrieval
 host: bonn
 start-date: 2015-07-15
+email: hthakkar <at> uni-bonn.de
+twitter: harsh9t
+github: harsh9t
+scholar: Rq0eahkAAAAJ
+orcid: 0000-0001-7707-3302
+website: http://harshthakkar.in
 supervisors:
-  - Maria-Esther Vidal
-  - Christoph Lange
-  - Ioanna Lytra
+  - Prof. Dr. Jens Lehmann
+  - Prof. Dr. Sören Auer
+  - Dr. Maria Esther-Vidal
 publications:
   - Thakkar2016Wims
   - Garica2016
   - Shekarpour2016
   - Thakkar2017Litmus
+  - Thakkar2017Qaestro
   - Thakkar2017Dexa
   - Thakkar2017Semantics
 ---
