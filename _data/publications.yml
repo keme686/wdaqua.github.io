@@ -5,7 +5,7 @@ Endris2017m:
   pdf: https://www.researchgate.net/publication/318361204_SMJoin_A_Multi-way_Join_Operator_for_SPARQL_queries
 Endris2017s:
   year: 2017
-  citation: "Dataset reuse: An analysis of references in community discussions, publications and data, Endris, Kemele and Giménez-García, José and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena, K-CAP 2017: Knowledge Capture Conference, December 4--6, 2017, Austin, TX, USA"
+  citation: "Dataset reuse: An analysis of references in community discussions, publications and data, Endris, Kemele and Giménez-García, José M. and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena, K-CAP 2017: Knowledge Capture Conference, December 4--6, 2017, Austin, TX, USA"
   pdf: https://www.researchgate.net/publication/320550401_Dataset_reuse_An_analysis_of_references_in_community_discussions_publications_and_data
 Faisal2016:
   year: 2016
@@ -43,7 +43,7 @@ Both2016:
   pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/2015_12___Extendible_Vocabulary_for_Question_Answering_Systems.pdf
 Thakkar2016Wims:
   year: 2016
-  citation: "Are Linked Datasets fit for Open-domain Question Answering? A Quality Assessment. Harsh Thakkar, Kemele M. Endris, Jose M. Gimenez-Garcia, Jeremy Debattista, Christoph Lange, Sören Auer. WIMS 2016."
+  citation: "Are Linked Datasets fit for Open-domain Question Answering? A Quality Assessment. Harsh Thakkar, Kemele M. Endris, José M. Giménez-García, Jeremy Debattista, Christoph Lange, Sören Auer. WIMS 2016."
   url: http://dl.acm.org/citation.cfm?id=2912857
   pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/wims2016.pdf
 Thakkar2017Litmus:
@@ -70,10 +70,26 @@ Diefenbach2016a:
   year: 2016
   citation: "A Scalable Approach for Computing Semantic Relatedness using Semantic Web Data. Dennis Diefenbach, Ricardo Usbeck, Kamal Singh, Pierre Maret. WIMS 2016."
   url: http://dl.acm.org/citation.cfm?id=2912864
-Garica2016:
+Gimenez2016Assessing:
   year: 2016
-  citation: "Ranking the Web of Data. Jose M. Garica, Harsh Thakkar, and Antoine Zimmermann. PROFILES 2016 Workshop. (2016)."
-  pdf: http://harshthakkar.in/wp-content/uploads/2016/03/ranking-web-data.pdf
+  citation: "Assessing trust with pageRank in the web of data. José M. Giménez-García, Harsh Thakkar, and Antoine Zimmermann. PROFILES Workshop (2016)."
+  pdf: http://ceur-ws.org/Vol-1597/PROFILES2016_paper5.pdf
+Gimenez2016Representing:
+  year: 2016
+  citation: "Representing Contextual Information as Fluents. José M. Giménez-García, Antoine Zimmermann, and Pierre Maret. EKAW Poster Session (2016)"
+  pdf: https://www.emse.fr/~zimmermann/Papers/ekaw2016poster.pdf
+Gimenez2017NdFluents:
+  year: 2017
+  citation: "NdFluents: An Ontology for Annotated Statements with Inference Preservation. José M. Giménez-García, Antoine Zimmermann, and Pierre Maret. ESWC (2017)."
+  pdf: http://www.emse.fr/~zimmermann/Papers/eswc2017b.pdf
+Gimenez2017MapReduce:
+  year: 2017
+  citation: "A MapReduce-based Approach to Scale Big Semantic Data Compression with HDT. José M. Giménez-García, Javier D. Fernández, Miguel A. Martínez-Prieto. IEEE LATIN AMERICA TRANSACTIONS, VOL. 15, NO. 7, JULY 2017."
+  pdf: http://www.ewh.ieee.org/reg/9/etrans/ieee/issues/vol15/vol15issue07July2017/15TLA7_09Gimenez.pdf
+Zimmermann2017Contextualizing:
+  year: 2017
+  citation: "Contextualizing DL axioms: Formalization, a New Approach, and its Properties. Antoine Zimmermann, and José M. Giménez-García. WoMoCoE Workshop (2017)."
+  pdf: http://ceur-ws.org/Vol-1936/paper-07.pdf
 Shekarpour2016:
   year: 2016
   citation: "Question Answering on Linked Data: Challenges and Future Directions. Saeedeh Shekarpour, Denis Lukovnikov, Ashwini Jaya Kumar, Kemele Endris, Kuldeep Singh, Harsh Thakkar, Christoph Lange. Q4APS at WWW 2016."
