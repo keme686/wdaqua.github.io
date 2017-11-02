@@ -3,14 +3,17 @@ layout: student
 esr: 1
 name: Kemele M. Endris
 image: kemele.jpg
-project: Making Datasets Fit for Question Answering
+project: Federated Query Processing over Heterogeneous Data Sources in a Data Lake
 host: bonn
 start-date: 2015-08-17
 supervisors:
   - Sören Auer
   - Maria-Esther Vidal
-  - Christoph Lange
-  - Ioanna Lytra
+email: endris <at> L3s.de
+twitter: kemelem
+github: keme686
+scholar: KJKcA2UAAAAJ
+orcid: 0000-0001-9040-9421
 publications:
   - Endris2017s
   - Endris2017
