@@ -4,7 +4,7 @@ esr: 1
 name: Kemele M. Endris
 image: kemele.jpg
 project: Federated Query Processing over Heterogeneous Data Sources in a Data Lake
-host: bonn
+host: luh-logo
 start-date: 2015-08-17
 supervisors:
   - Sören Auer
