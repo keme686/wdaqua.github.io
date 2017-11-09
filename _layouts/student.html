@@ -70,6 +70,20 @@ title: {{page.name}}
           </p>
         {% endfor %}
       {% endif %}
+      {% if page.conference_reviewer %}
+        <h2>Reviewer of :</h2>
+        {% for conference in page.conference_reviewer %}
+          {% if conference.link %}
+             <p><a href="{{conference.link}}">
+                {{conference.name}}
+             </a></p>
+          {% else %}
+      	     <p>
+             {{conference.name}}
+             </p>
+          {% endif %} 
+        {% endfor %}
+      {% endif %}
     </div>
     <div class="col-md-5 col-xs-12">
       {% if page.email %}
