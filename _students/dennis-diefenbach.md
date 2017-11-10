@@ -15,7 +15,6 @@ publications:
   - Both2016
   - Diefenbach2016a
   - Singh2016b
-  - Diefenbach2016b
   - Diefenbach2016c
   - Diefenbach2017a
   - Diefenabch2017b
@@ -24,6 +23,7 @@ publications:
   - Diefenbach2017e
   - Diefenbach2017f
   - Diefenbach2017g
+  - Diefenbach2017h
 email: dennis.diefenbach@univ-st-etienne.fr
 github: D063520
 scholar: IHizMRoAAAAJ&hl

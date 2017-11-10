@@ -17,6 +17,7 @@ orcid: 0000-0001-7015-7896
 publications:
   - Gimenez2016Assessing
   - Gimenez2016Representing
+  - GimenezGarcia2016
   - Thakkar2016Wims
   - Gimenez2017MapReduce
   - Gimenez2017NdFluents

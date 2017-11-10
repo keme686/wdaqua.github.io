@@ -4,9 +4,9 @@
 - name: Antidot
   logo: antidot.png
   url: http://www.antidot.net/
-- name: Athens Technology Center Innovation Lab
-  logo: atc.png
-  url: http://www.atc.gr/internal3.aspx?Page=innovation
+- name: ONLIM
+  logo: onlim.png
+  url: http://www.onlim.com/
 - name: Mercateo
   logo: mercateo.png
   url: https://www.mercateo.com
@@ -16,3 +16,6 @@
 - name: Wikimedia Deutschland
   logo: wikimedia.png
   url: https://www.wikimedia.de/
+- name: Athens Technology Center Innovation Lab
+  logo: atc.png
+  url: http://www.atc.gr/
