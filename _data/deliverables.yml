@@ -24,6 +24,7 @@
   type: Report
   dissemination-level: Public
   due-date: M8
+  link: "http://wdaqua.eu/assets/deliverables/1.4.pdf"
 - number: D1.5
   title: Progress Report
   wp: WP1
@@ -54,6 +55,7 @@
   type: Report
   dissemination-level: Public
   due-date: M3
+  link: "http://wdaqua.eu/assets/deliverables/D2.1.pdf"
 - number: D2.2
   title: Career development plans for all ESRs
   wp: WP2
@@ -85,6 +87,7 @@
   type: Report
   dissemination-level: Public
   due-date: M16
+  link: "http://wdaqua.eu/assets/deliverables/D4.1.pdf"
 - number: D4.2
   title: OpenQA core platform prefinal
   wp: WP4
@@ -103,6 +106,7 @@
   type: Report
   dissemination-level: Public
   due-date: M9
+  link: "http://wdaqua.eu/assets/deliverables/D6.1.pdf"
 - number: D6.2
   title: Results transferability report
   wp: WP6
@@ -115,6 +119,7 @@
   type: Report
   dissemination-level: Public
   due-date: M16
+  link: "http://wdaqua.eu/assets/deliverables/D7.1.pdf"
 - number: D7.2
   title: OpenQA demonstrator
   wp: WP7

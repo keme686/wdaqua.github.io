@@ -1,11 +1,11 @@
 ---
 Endris2017m:
   year: 2017
-  citation: "SMJoin: A Multi-way Join Operator for SPARQL queries, Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören, Semantics Conference 2017, Amsterdam, September 11 - 14. 2017"
+  citation: "SMJoin: A Multi-way Join Operator for SPARQL queries. Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören. SEMANTiCS 2017"
   pdf: https://www.researchgate.net/publication/318361204_SMJoin_A_Multi-way_Join_Operator_for_SPARQL_queries
 Endris2017s:
   year: 2017
-  citation: "Dataset reuse: An analysis of references in community discussions, publications and data, Endris, Kemele and Giménez-García, José M. and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena, K-CAP 2017. Knowledge Capture Conference, 2017, Austin, TX, USA"
+  citation: "Dataset reuse: An analysis of references in community discussions, publications and data. Endris, Kemele and Giménez-García, José M. and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena. K-CAP 2017"
   pdf: https://www.researchgate.net/publication/320550401_Dataset_reuse_An_analysis_of_references_in_community_discussions_publications_and_data
 Faisal2016:
   year: 2016
@@ -58,7 +58,7 @@ Thakkar2017Litmus:
   pdf: https://www.researchgate.net/profile/Harsh_Thakkar2/publication/316109631_Towards_an_Open_Extensible_Framework_for_Empirical_Benchmarking_of_Data_Management_Solutions_LITMUS/links/58f0e236aca27289c2127053/Towards-an-Open-Extensible-Framework-for-Empirical-Benchmarking-of-Data-Management-Solutions-LITMUS.pdf
 Thakkar2017Dexa:
   year: 2017
-  citation: "Towards an Integrated Graph Algebra for Graph Pattern Matching with Gremlin. Harsh Thakkar, Dharmen Punjani, Sören Auer, and Maria-Esther Vidal.  DEXA (1) 2017: 81-91."
+  citation: "Towards an Integrated Graph Algebra for Graph Pattern Matching with Gremlin. Harsh Thakkar, Dharmen Punjani, Sören Auer, and Maria-Esther Vidal. DEXA (1) 2017: 81-91."
   url: https://link.springer.com/chapter/10.1007/978-3-319-64468-4_6
   pdf: https://www.researchgate.net/publication/318404544_Towards_an_Integrated_Graph_Algebra_for_Graph_Pattern_Matching_with_Gremlin
 Thakkar2017Semantics:
@@ -109,19 +109,15 @@ Singh2016b:
   pdf: https://2016.eswc-conferences.org/sites/default/files/papers/Accepted%20Posters%20and%20Demos/ESWC2016_DEMO_Qanary.pdf
 Kumar2016:
   year: 2016
-  citation: "A Knowledge Graph Based Speech Interface For Question Answering Systems. Ashwini Jaya Kumar, Christoph Schmidt, Joachim Koehler.  Speech Communication 92: 1-12 (2017)"
+  citation: "A Knowledge Graph Based Speech Interface For Question Answering Systems. Ashwini Jaya Kumar, Christoph Schmidt, Joachim Koehler. Speech Communication 92: 1-12 (2017)"
   url: http://www.sciencedirect.com/science/article/pii/S0167639316301443?via%3Dihub
 Kumar2017a:
   year: 2017
   citation: "Towards a Knowledge Graph based Speech Interface. Ashwini Jaya Kumar, Sören Auer, Christoph Schmidt, Joachim Köhler. GLU 2017: 8-12"
   pdf: http://www.speech.kth.se/glu2017/papers/GLU2017_paper_2.pdf
-Lytra2016:
-  year: 2016
-  citation: "WDAqua: Answering Questions using Web Data. Ioanna Lytra, Maria-Esther Vidal, Christoph Lange, Sören Auer and Elena Demidova. 13th ESWC 2016, EU Project Networking session."
-  pdf: http://wdaqua.eu/wp-content/uploads/WDAqua_EU_NW_ESWC16.pdf
 Diefenbach2016c:
   year: 2016
-  citation: "Computing the Semantic Relatedness of Music Genre using Semantic Web Data. Dennis Diefenbach, Pierre-René Lhérisson, Fabrice Muhlenbach, Pierre Maret.  SEMANTiCS (Posters, Demos, SuCCESS) 2016"
+  citation: "Computing the Semantic Relatedness of Music Genre using Semantic Web Data. Dennis Diefenbach, Pierre-René Lhérisson, Fabrice Muhlenbach, Pierre Maret. SEMANTiCS (Posters, Demos, SuCCESS) 2016"
   pdf: http://ceur-ws.org/Vol-1695/paper23.pdf
 Mrabet2016:
   year: 2016
@@ -155,19 +151,19 @@ Koesten2017:
   url: http://dl.acm.org/citation.cfm?id=3025838
 Diefenbach2017a:
   year: 2017
-  citation: "WDAqua-core0: A Question Answering Component for the Research Community.  Dennis Diefenbach, Kamal Singh, Pierre Maret. ESWC, 7th Open Challenge on Question Answering over Linked Data (QALD-7)"
+  citation: "WDAqua-core0: A Question Answering Component for the Research Community.  Dennis Diefenbach, Kamal Singh, Pierre Maret. ESWC, 7th Open Challenge on Question Answering over Linked Data (QALD-7) 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Workshop__QALD.pdf
 Diefenbach2017b:
   year: 2017
-  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D"
+  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Qanary.pdf
 Diefenbach2017c:
   year: 2017
-  citation: "Trill: A generic Front-End for QA systems. Dennis Diefenbach, Shanzay Amjad, Andreas Both, Kamal Singh, Pierre Maret, ESWC P&D"
+  citation: "Trill: A generic Front-End for QA systems. Dennis Diefenbach, Shanzay Amjad, Andreas Both, Kamal Singh, Pierre Maret, ESWC P&D 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Trill.pdf
 Diefenbach2017d:
   year: 2017
-  citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE: 171-189"
+  citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE 2017: 171-189"
   url: https://link.springer.com/chapter/10.1007/978-3-319-60131-1_10
   pdf: http://wdaqua.eu/assets/publications/2017_ICWE_Qanary.pdf
 Diefenbach2017e:
@@ -208,7 +204,7 @@ Gottschalk2016:
   pdf: https://eprints.soton.ac.uk/393003/1/multiwiki_demo_paper.pdf
 Hady2017a:
   year: 2017
-  citation: "Unsupervised Open Relation Extraction. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier and Frederique Laforest. ESWC P&D"
+  citation: "Unsupervised Open Relation Extraction. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier and Frederique Laforest. ESWC P&D 2017"
   url: https://link.springer.com/chapter/10.1007/978-3-319-70407-4_3
 Lukovnikov2017:
   year: 2017
