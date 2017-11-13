@@ -36,38 +36,6 @@ title: {{page.name}}
         </dd>
       </dl>
     </div>
-    <div class="col-md-5 col-xs-12">
-      {% if page.email %}
-        <a href="mailto:{{page.email}}">
-          <img src="{{site.baseurl}}/assets/images/email.png" />
-        </a>
-      {% endif %}
-      {% if page.homepage %}
-        <a href="{{page.homepage}}">
-          <img src="{{site.baseurl}}/assets/images/home.png" />
-        </a>
-      {% endif %}
-      {% if page.twitter %}
-        <a href="https://twitter.com/{{page.twitter}}">
-          <img src="{{site.baseurl}}/assets/images/twitter.png" />
-        </a>
-      {% endif %}
-      {% if page.github %}
-        <a href="https://github.com/{{page.github}}">
-          <img src="{{site.baseurl}}/assets/images/github.png" />
-        </a>
-      {% endif %}
-      {% if page.scholar %}
-        <a href="https://scholar.google.com/citations?user={{page.scholar}}=en">
-          <img style="height: 50px;" src="{{site.baseurl}}/assets/images/scholar.png" />
-        </a>
-      {% endif %}
-      {% if page.orcid %}
-        <a href="https://orcid.org/{{page.orcid}}">
-          <img src="{{site.baseurl}}/assets/images/orcid.png" />
-        </a>
-      {% endif %}
-    </div>
     <div class="col-xs-4 col-md-2">
       <img class="img-responsive img-center" src="{{site.baseurl}}/assets/images/logos/{{page.host}}.png">
     </div>
@@ -101,6 +69,38 @@ title: {{page.name}}
             ({{student.start}}-{{student.end}}) {{ student.name }} : {{ student.topic}}
           </p>
         {% endfor %}
+      {% endif %}
+    </div>
+    <div class="col-md-5 col-xs-12">
+      {% if page.email %}
+        <a href="mailto:{{page.email}}">
+          <img src="{{site.baseurl}}/assets/images/email.png" />
+        </a>
+      {% endif %}
+      {% if page.homepage %}
+        <a href="{{page.homepage}}">
+          <img src="{{site.baseurl}}/assets/images/home.png" />
+        </a>
+      {% endif %}
+      {% if page.twitter %}
+        <a href="https://twitter.com/{{page.twitter}}">
+          <img src="{{site.baseurl}}/assets/images/twitter.png" />
+        </a>
+      {% endif %}
+      {% if page.github %}
+        <a href="https://github.com/{{page.github}}">
+          <img src="{{site.baseurl}}/assets/images/github.png" />
+        </a>
+      {% endif %}
+      {% if page.scholar %}
+        <a href="https://scholar.google.com/citations?user={{page.scholar}}=en">
+          <img style="height: 50px;" src="{{site.baseurl}}/assets/images/scholar.png" />
+        </a>
+      {% endif %}
+      {% if page.orcid %}
+        <a href="https://orcid.org/{{page.orcid}}">
+          <img src="{{site.baseurl}}/assets/images/orcid.png" />
+        </a>
       {% endif %}
     </div>
   </div>
