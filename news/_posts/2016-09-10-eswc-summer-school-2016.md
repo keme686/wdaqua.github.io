@@ -4,9 +4,9 @@ summary: |
   WDAqua team is looking back at the successful ESWC summer school dedicated to Data Science that took place 5-10 September 2016 in Dubrovnik, Croatia (see [http://summerschool2016.eswc-conferences.org/](http://summerschool2016.eswc-conferences.org/)). During the summer school week, WDAqua ESRs enjoyed tutorials on a variety of Data Science topics, actively participated in interactive hands on sessions, presented their work during poster sessions and worked in teams to conduct exciting research projects. We are very pleased to see WDAqua ESRs bringing home a lot of awards for their poster presentations and projects. Congratulations!
 ---
 
-![](http://wdaqua.eu/wp-content/uploads/IMG_20160910_110254_0.jpg)
+![](/assets/images/news/2016-09-10/IMG_20160910_110254_0.jpg){:height="400px"}
 
-![](http://wdaqua.eu/wp-content/uploads/IMG_20160910_110546_0.jpg)
+![](/assets/images/news/2016-09-10/IMG_20160910_110546_0.jpg){:height="400px"}
 
 Let us listen to the voices of the award winners:
 
@@ -73,7 +73,7 @@ The project was inspired by the Kaggle challenge: Detecting Insults in Social Co
   <dd>Laura Koesten</dd>
 </dl>
 
-In this project we developed the ‘Recipator’, a tool to generate new cooking recipes based on a set of existing recipes crawled from the BBC good food recipe collection. In order to produce “cookable” recipes we extracted sequences of ingredients and their corresponding actions from the crawled dataset by applying basic entity detection and nearest verb extraction, e.g, (cook-potato). To assure the novelty of the recipes, we classified the ingredients using DBpedia Spotlight. Those sequences were used as training data for a Markov model with an additional independence assumption. The probability matrix was used to boost the ‘cookability’ of newly generated recipes. The outputs were randomly generated recipes based on the existing recipe collection.
+In this project we developed the 'Recipator', a tool to generate new cooking recipes based on a set of existing recipes crawled from the BBC good food recipe collection. In order to produce “cookable” recipes we extracted sequences of ingredients and their corresponding actions from the crawled dataset by applying basic entity detection and nearest verb extraction, e.g, (cook-potato). To assure the novelty of the recipes, we classified the ingredients using DBpedia Spotlight. Those sequences were used as training data for a Markov model with an additional independence assumption. The probability matrix was used to boost the 'cookability' of newly generated recipes. The outputs were randomly generated recipes based on the existing recipe collection.
 
 ## Award: 3rd Prize for Student Project
 
