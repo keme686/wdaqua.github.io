@@ -1,78 +1,84 @@
 ---
 Endris2017m:
   year: 2017
-  citation: "SMJoin: A Multi-way Join Operator for SPARQL queries, Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören, Semantics Conference 2017, Amsterdam, September 11 - 14. 2017"
+  citation: "SMJoin: A Multi-way Join Operator for SPARQL queries. Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören. SEMANTiCS 2017"
   pdf: https://www.researchgate.net/publication/318361204_SMJoin_A_Multi-way_Join_Operator_for_SPARQL_queries
 Endris2017s:
   year: 2017
-  citation: "Dataset reuse: An analysis of references in community discussions, publications and data, Endris, Kemele and Giménez-García, José M. and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena, K-CAP 2017: Knowledge Capture Conference, December 4--6, 2017, Austin, TX, USA"
+  citation: "Dataset reuse: An analysis of references in community discussions, publications and data. Endris, Kemele and Giménez-García, José M. and Thakkar, Harsh and Demidova, Elena and Zimmermann, Antoine and Lange, Christoph and Simperl, Elena. K-CAP 2017"
   pdf: https://www.researchgate.net/publication/320550401_Dataset_reuse_An_analysis_of_references_in_community_discussions_publications_and_data
 Faisal2016:
   year: 2016
-  citation: "Co-evolution of RDF Datasets, Faisal, Sidra; Endris, Kemele M; Shekarpour, Saeedeh; Auer, Sören; Vidal, Maria-Esther; International Conference on Web Engineering, 225-243, 2016, Springer"
-  pdf: https://www.researchgate.net/publication/291437285_Co-evolution_of_RDF_Datasets
+  citation: "Co-evolution of RDF Datasets. Sidra Faisal, Kemele M. Endris, Saeedeh Shekarpour, Sören Auer, Maria-Esther Vidal. ICWE 2016: 225-243"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-38791-8_13
+  pdf: https://arxiv.org/pdf/1601.05270.pdf
 Endris2017:
   year: 2017
-  citation: "MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates. Endris K.M., Galkin M., Lytra I., Mami M.N., Vidal ME., Auer S., In: Benslimane D., Damiani E., Grosky W., Hameurlain A., Sheth A., Wagner R. (eds) Database and Expert Systems Applications. DEXA 2017. Lecture Notes in Computer Science, vol 10438. Springer, Cham"
+  citation: "MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates. Kemele M. Endris, Mikhail Galkin, Ioanna Lytra, Mohamed Nadjib Mami, Maria-Esther Vidal, Sören Auer. DEXA (1) 2017: 3-18"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-64468-4_1
   pdf: https://www.researchgate.net/publication/318362785_MULDER_Querying_the_Linked_Data_Web_by_Bridging_RDF_Molecule_Templates
 Piscopo2017a:
   year: 2017
   citation: "Wikidatians Are Born: Paths to Full Participation in a Collaborative Structured Knowledge Base. Alessandro Piscopo, Christopher Phethean, Elena Simperl. HICSS-50. 2017"
-  pdf: http://eprints.soton.ac.uk/401755/
+  pdf: https://eprints.soton.ac.uk/401755/1/__filestore.soton.ac.uk_users_skr1c15_mydocuments_eprints_ECS_Piscopo_becoming_wikidatians%25287%2529.pdf
 Piscopo2017b:
   year: 2017
-  citation: "What do Wikidata and Wikipedia Have in Common?: An Analysis of their Use of External References. Alessandro Piscopo, Pavlos Vougiouklis, Lucie-Aimee Kaffee, Christopher Phethean, Jonathon Hare, and Elena Simperl. OpenSym '17. 2017"
-  pdf: https://dl.acm.org/citation.cfm?id=3125445
+  citation: "What do Wikidata and Wikipedia Have in Common?: An Analysis of their Use of External References. Alessandro Piscopo, Pavlos Vougiouklis, Lucie-Aimee Kaffee, Christopher Phethean, Jonathon Hare, and Elena Simperl. OpenSym 2017: 1:1-1:10"
+  url: https://dl.acm.org/citation.cfm?id=3125445
+  pdf: http://opensym.lero.ie/wp-content/uploads/2017/08/a1-piscopo.pdf
 Piscopo2017c:
   year: 2017
-  citation: "What Makes a Good Collaborative Knowledge Graph: Group Composition and Quality in Wikidata. Alessandro Piscopo, Chris Phethean, and Elena Simperl. Social Informatics. 2017"
-  pdf: https://link.springer.com/content/pdf/10.1007/978-3-319-67217-5_19.pdf
+  citation: "What Makes a Good Collaborative Knowledge Graph: Group Composition and Quality in Wikidata. Alessandro Piscopo, Chris Phethean, and Elena Simperl. Social Informatics 2017: 305-322"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-67217-5_19
+  pdf: https://eprints.soton.ac.uk/401755/1/__filestore.soton.ac.uk_users_skr1c15_mydocuments_eprints_ECS_Piscopo_becoming_wikidatians%25287%2529.pdf
 Piscopo2017d:
   year: 2017
-  citation: "Provenance Information in a Collaborative Knowledge Graph: an Evaluation of Wikidata External References. Alessandro Piscopo, Lucie-Aimee Kaffee, Christopher Phethean, and Elena Simperl. ISWC 2017. 2017"
-  pdf: https://eprints.soton.ac.uk/412923/
+  citation: "Provenance Information in a Collaborative Knowledge Graph: an Evaluation of Wikidata External References. Alessandro Piscopo, Lucie-Aimée Kaffee, Chris Phethean, Elena Simperl. ISWC (1) 2017: 542-558"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-68288-4_32
+  pdf: https://eprints.soton.ac.uk/412923/1/WD_sources_iswc_7_.pdf
 Singh2016a:
   year: 2016
-  citation: "Towards a Message-Driven Vocabulary for Promoting the Interoperability of Question Answering Systems. Kuldeep Singh, Andreas Both, Dennis Diefenbach, Saeedeh Shekarpour. IEEE ICSC 2016."
-  url: http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=7439371&abstractAccess=no&userType=inst
-  pdf: http://wdaqua.eu/wp-content/uploads/PID4045687.pdf
+  citation: "Towards a Message-Driven Vocabulary for Promoting the Interoperability of Question Answering Systems. Kuldeep Singh, Andreas Both, Dennis Diefenbach, Saeedeh Shekarpour. IEEE ICSC 2016: 386-389"
+  url: http://ieeexplore.ieee.org/document/7439371/
+  pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9497&rep=rep1&type=pdf
 Both2016:
   year: 2016
-  citation: "Qanary –  A Methodology for Vocabulary-driven Open Question Answering Systems. Andreas Both, Dennis Diefenbach, Kuldeep Singh, Saedeeh Shekarpour, Didier Cherix, Christoph Lange. ESWC 2016."
+  citation: "Qanary - A Methodology for Vocabulary-driven Open Question Answering Systems. Andreas Both, Dennis Diefenbach, Kuldeep Singh, Saedeeh Shekarpour, Didier Cherix, Christoph Lange. ESWC 2016: 625-641"
   url: http://link.springer.com/chapter/10.1007%2F978-3-319-34129-3_38
-  pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/2015_12___Extendible_Vocabulary_for_Question_Answering_Systems.pdf
+  pdf: https://www.researchgate.net/publication/297758557_Qanary_-_A_Methodology_for_Vocabulary-Driven_Open_Question_Answering_Systems
 Thakkar2016Wims:
   year: 2016
-  citation: "Are Linked Datasets fit for Open-domain Question Answering? A Quality Assessment. Harsh Thakkar, Kemele M. Endris, José M. Giménez-García, Jeremy Debattista, Christoph Lange, Sören Auer. WIMS 2016."
+  citation: "Are Linked Datasets fit for Open-domain Question Answering? A Quality Assessment. Harsh Thakkar, Kemele M. Endris, José M. Giménez-García, Jeremy Debattista, Christoph Lange, Sören Auer. WIMS 2016: 19:1-19:12"
   url: http://dl.acm.org/citation.cfm?id=2912857
-  pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/wims2016.pdf
+  pdf: https://www.researchgate.net/publication/303565675_Are_Linked_Datasets_fit_for_Open-domain_Question_Answering_A_Quality_Assessment
 Thakkar2017Litmus:
   year: 2017
-  citation: "Towards an Open Extensible Framework for Empirical Benchmarking of Data Management Solutions: LITMUS. Harsh Thakkar. ESWC 2017."
+  citation: "Towards an Open Extensible Framework for Empirical Benchmarking of Data Management Solutions: LITMUS. Harsh Thakkar. ESWC 2017: 256-266"
   url: https://link.springer.com/chapter/10.1007/978-3-319-58451-5_20
   pdf: https://www.researchgate.net/profile/Harsh_Thakkar2/publication/316109631_Towards_an_Open_Extensible_Framework_for_Empirical_Benchmarking_of_Data_Management_Solutions_LITMUS/links/58f0e236aca27289c2127053/Towards-an-Open-Extensible-Framework-for-Empirical-Benchmarking-of-Data-Management-Solutions-LITMUS.pdf
 Thakkar2017Dexa:
   year: 2017
-  citation: "Towards an Integrated Graph Algebra for Graph Pattern Matching with Gremlin. Harsh Thakkar, Dharmen Punjani, Sören Auer, and Maria-Esther Vidal. DEXA 2017."
+  citation: "Towards an Integrated Graph Algebra for Graph Pattern Matching with Gremlin. Harsh Thakkar, Dharmen Punjani, Sören Auer, and Maria-Esther Vidal. DEXA (1) 2017: 81-91."
   url: https://link.springer.com/chapter/10.1007/978-3-319-64468-4_6
   pdf: https://www.researchgate.net/publication/318404544_Towards_an_Integrated_Graph_Algebra_for_Graph_Pattern_Matching_with_Gremlin
 Thakkar2017Semantics:
   year: 2017
-  citation: "Trying Not to Die Benchmarking – Orchestrating RDF and Graph Data Management Solution Benchmarks Using LITMUS. Harsh Thakkar, Yashwant Keswani, Mohnish Dubey, Jens Lehmann, Sören Auer. Semantics 2017"
-  url: to appear
+  citation: "Trying Not to Die Benchmarking - Orchestrating RDF and Graph Data Management Solution Benchmarks Using LITMUS. Harsh Thakkar, Yashwant Keswani, Mohnish Dubey, Jens Lehmann, Sören Auer. Semantics 2017"
   pdf: http://jens-lehmann.org/files/2017/semantics_litmus.pdf
 Thakkar2017Qaestro:
   year: 2017
-  citation: "QAestro–semantic-based composition of question answering pipelines. Kuldeep Singh, Ionna Lytra, Maria Esther-Vidal, Dharmen Punjani, Harsh Thakkar, Christoph Lange, Sören Auer. DEXA 2017 "
+  citation: "QAestro–semantic-based composition of question answering pipelines. Kuldeep Singh, Ionna Lytra, Maria Esther-Vidal, Dharmen Punjani, Harsh Thakkar, Christoph Lange, Sören Auer. DEXA 2017: 19-34 "
   url: https://link.springer.com/chapter/10.1007/978-3-319-64468-4_2
   pdf: https://www.researchgate.net/profile/Kuldeep_Singh86/publication/317106620_QAestro_-_Semantic-Based_Composition_of_Question_Answering_Pipelines/links/59d7e52da6fdcc2aad064ffd/QAestro-Semantic-Based-Composition-of-Question-Answering-Pipelines.pdf
 Diefenbach2016a:
   year: 2016
-  citation: "A Scalable Approach for Computing Semantic Relatedness using Semantic Web Data. Dennis Diefenbach, Ricardo Usbeck, Kamal Singh, Pierre Maret. WIMS 2016."
+  citation: "A Scalable Approach for Computing Semantic Relatedness using Semantic Web Data. Dennis Diefenbach, Ricardo Usbeck, Kamal Singh, Pierre Maret. WIMS 2016: 20:1-20:9"
   url: http://dl.acm.org/citation.cfm?id=2912864
+  pdf: https://www.researchgate.net/publication/304492602_A_Scalable_Approach_for_Computing_Semantic_Relatedness_using_Semantic_Web_Data
 Gimenez2016Assessing:
   year: 2016
-  citation: "Assessing trust with pageRank in the web of data. José M. Giménez-García, Harsh Thakkar, and Antoine Zimmermann. PROFILES Workshop (2016)."
+  citation: "Assessing trust with pageRank in the web of data. José M. Giménez-García, Harsh Thakkar, and Antoine Zimmermann. PROFILES@ESWC 2016: 293-307."
+  url: https://link.springer.com/chapter/10.1007/978-3-319-47602-5_45
   pdf: http://ceur-ws.org/Vol-1597/PROFILES2016_paper5.pdf
 Gimenez2016Representing:
   year: 2016
@@ -80,7 +86,8 @@ Gimenez2016Representing:
   pdf: https://www.emse.fr/~zimmermann/Papers/ekaw2016poster.pdf
 Gimenez2017NdFluents:
   year: 2017
-  citation: "NdFluents: An Ontology for Annotated Statements with Inference Preservation. José M. Giménez-García, Antoine Zimmermann, and Pierre Maret. ESWC (2017)."
+  citation: "NdFluents: An Ontology for Annotated Statements with Inference Preservation. José M. Giménez-García, Antoine Zimmermann, and Pierre Maret. ESWC 2017: 638-654"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-58068-5_39
   pdf: http://www.emse.fr/~zimmermann/Papers/eswc2017b.pdf
 Gimenez2017MapReduce:
   year: 2017
@@ -88,44 +95,47 @@ Gimenez2017MapReduce:
   pdf: http://www.ewh.ieee.org/reg/9/etrans/ieee/issues/vol15/vol15issue07July2017/15TLA7_09Gimenez.pdf
 Zimmermann2017Contextualizing:
   year: 2017
-  citation: "Contextualizing DL axioms: Formalization, a New Approach, and its Properties. Antoine Zimmermann, and José M. Giménez-García. WoMoCoE Workshop (2017)."
+  citation: "Contextualizing DL axioms: Formalization, a New Approach, and its Properties. Antoine Zimmermann, and José M. Giménez-García. WSP/WOMoCoE@ISWC 2017: 74-85"
   pdf: http://ceur-ws.org/Vol-1936/paper-07.pdf
 Shekarpour2016:
   year: 2016
-  citation: "Question Answering on Linked Data: Challenges and Future Directions. Saeedeh Shekarpour, Denis Lukovnikov, Ashwini Jaya Kumar, Kemele Endris, Kuldeep Singh, Harsh Thakkar, Christoph Lange. Q4APS at WWW 2016."
-  pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/paper.pdf
+  citation: "Question Answering on Linked Data: Challenges and Future Directions. Saeedeh Shekarpour, Denis Lukovnikov, Ashwini Jaya Kumar, Kemele Endris, Kuldeep Singh, Harsh Thakkar, Christoph Lange. Q4APS at WWW 2016: 693-698"
+  url: https://dl.acm.org/citation.cfm?id=2872518.2890571
+  pdf: http://gdac.uqam.ca/WWW2016-Proceedings/companion/p693.pdf
 Singh2016b:
   year: 2016
-  citation: "Qanary –  the Fast Track to Creating a Question Answering System with Linked Data Technology . Kuldeep Singh, Andreas Both, Dennis Diefenbach, Saedeeh Shekarpour, Didier Cherix, Christoph Lange. ESWC Poster&Demo 2016."
-  pdf: http://wdaqua.informatik.uni-bonn.de/wp-content/uploads/DemoPaper___ESWC_2016.pdf
-Diefenbach2016b:
-  year: 2016
-  citation: "A Scalable Approach for Computing Semantic Relatedness using Semantic Web Data. Dennis Diefenbach, Ricardo Usbeck, Kamal Singh, Pierre Maret. 6th International Conference on Web Intelligence, Mining and Semantics (WIMS) 2016."
-  pdf: http://wdaqua.eu/wp-content/uploads/WIMS-4.pdf
+  citation: "Qanary - the Fast Track to Creating a Question Answering System with Linked Data Technology. Kuldeep Singh, Andreas Both, Dennis Diefenbach, Saedeeh Shekarpour, Didier Cherix, Christoph Lange. ESWC (Satellite Events) 2016: 183-188"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-47602-5_36
+  pdf: https://2016.eswc-conferences.org/sites/default/files/papers/Accepted%20Posters%20and%20Demos/ESWC2016_DEMO_Qanary.pdf
 Kumar2016:
   year: 2016
-  citation: "A Knowledge Graph Based Speech Interface For Question Answering Systems. Ashwini Jaya Kumar, Christoph Schmidt, Joachim Koehler. Speech Communication, Elsevier (Under Revision)."
-Lytra2016:
-  year: 2016
-  citation: "WDAqua: Answering Questions using Web Data. Ioanna Lytra, Maria-Esther Vidal, Christoph Lange, Sören Auer and Elena Demidova. 13th ESWC 2016, EU Project Networking session."
-  pdf: http://wdaqua.eu/wp-content/uploads/WDAqua_EU_NW_ESWC16.pdf
+  citation: "A Knowledge Graph Based Speech Interface For Question Answering Systems. Ashwini Jaya Kumar, Christoph Schmidt, Joachim Koehler. Speech Communication 92: 1-12 (2017)"
+  url: http://www.sciencedirect.com/science/article/pii/S0167639316301443?via%3Dihub
+Kumar2017a:
+  year: 2017
+  citation: "Towards a Knowledge Graph based Speech Interface. Ashwini Jaya Kumar, Sören Auer, Christoph Schmidt, Joachim Köhler. GLU 2017: 8-12"
+  pdf: http://www.speech.kth.se/glu2017/papers/GLU2017_paper_2.pdf
 Diefenbach2016c:
   year: 2016
-  citation: "Computing the Semantic Relatedness of Music Genre using Semantic Web Data. Dennis Diefenbach, Pierre-René Lhérisson, Fabrice Muhlenbach, Pierre Maret. SEMANTICS Poster&Demo 2016."
-  pdf: http://wdaqua.eu/wp-content/uploads/Poster_paper_Semantics__16-3-11.pdf
+  citation: "Computing the Semantic Relatedness of Music Genre using Semantic Web Data. Dennis Diefenbach, Pierre-René Lhérisson, Fabrice Muhlenbach, Pierre Maret. SEMANTiCS (Posters, Demos, SuCCESS) 2016"
+  pdf: http://ceur-ws.org/Vol-1695/paper23.pdf
 Mrabet2016:
   year: 2016
   citation: "Aligning Texts and Knowledge Bases with Semantic Sentence Simplification. Yassine Mrabet, Pavlos Vougiouklis, Halil Kilicoglu, Claire Gardent, Dina Demner-Fushman, Jonathon Hare, and Elena Simperl. 2nd International Workshop on Natural Language Generation and the Semantic Web (WebNLG) 2016."
   pdf: https://webnlg2016.sciencesconf.org/data/pages/06.pdf
 Vougiouklis2016:
   year: 2016
-  citation: "A Neural Network Approach for Knowledge-Driven Response Generation. Pavlos Vougiouklis, Jonathon Hare, and Elena Simperl. 26th International Conference on Computational Linguistics (COLING) 2016."
+  citation: "A Neural Network Approach for Knowledge-Driven Response Generation. Pavlos Vougiouklis, Jonathon Hare, and Elena Simperl. COLING 2016: 3370-3380"
+  pdf: http://aclweb.org/anthology/C16-1318
 GimenezGarcia2016:
   year: 2016
-  citation: "Representing Contextual Information as Fluents. José M. Giménez-García, Antoine Zimmermann and Pierre Maret. Poster Paper. EKAW 2016."
+  citation: "Representing Contextual Information as Fluents. José M. Giménez-García, Antoine Zimmermann and Pierre Maret. Poster Paper. EKAW (Satellite Events) 2016: 119-122"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-58694-6_13
+  pdf: https://www.emse.fr/~zimmermann/Papers/ekaw2016poster.pdf
 Koesten2016:
   year: 2016
   citation: "Learning when searching for web data. Laura Koesten, Emilia Kacprzak, Jenifer Tennison. Search as Learning (SAL) workshop @SIGIR 2016."
+  pdf: http://ceur-ws.org/Vol-1647/SAL2016_paper_7.pdf
 Lange2015:
   year: 2015
   citation: "The WDAqua ITN – Answering Questions using Web Data. Christoph Lange, Saeedeh Shekarpour and Sören Auer. 12th ESWC 2015, EU Project Networking session."
@@ -134,46 +144,76 @@ Lange2015:
 Kacprzak2016:
   year: 2016
   citation: "Position Paper: Dataset profiling for un-Linked Data. Emilia Kacprzak, Laura Koesten, Tom Heath, Jeni Tennison. PROFILES Workshop. ESWC 2016 (Satellite Events)"
+  pdf: http://ceur-ws.org/Vol-1597/PROFILES2016_paper3.pdf
 Koesten2017:
   year: 2016
-  citation: "The Trials and Tribulations of Working with Structured Data - a Study on Information Seeking Behaviour. Laura Koesten, Emilia Kacprzak, Jeni Tennison, Elena Simperl. CHI 2017"
+  citation: "The Trials and Tribulations of Working with Structured Data - a Study on Information Seeking Behaviour. Laura Koesten, Emilia Kacprzak, Jeni Tennison, Elena Simperl. CHI 2017: 1277-1289"
+  url: http://dl.acm.org/citation.cfm?id=3025838
 Diefenbach2017a:
   year: 2017
-  citation: "WDAqua-core0: A Question Answering Component for the Research Community.  Dennis Diefenbach, Kamal Singh, Pierre Maret. ESWC, 7th Open Challenge on Question Answering over Linked Data (QALD-7)"
+  citation: "WDAqua-core0: A Question Answering Component for the Research Community.  Dennis Diefenbach, Kamal Singh, Pierre Maret. ESWC, 7th Open Challenge on Question Answering over Linked Data (QALD-7) 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Workshop__QALD.pdf
 Diefenbach2017b:
   year: 2017
-  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D"
+  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Qanary.pdf
 Diefenbach2017c:
   year: 2017
-  citation: "Trill: A reusable Front-End for QA systems, Dennis Diefenbach, Shanzay Amjad, Andreas Both, Kamal Singh, Pierre Maret, ESWC P&D"
+  citation: "Trill: A generic Front-End for QA systems. Dennis Diefenbach, Shanzay Amjad, Andreas Both, Kamal Singh, Pierre Maret, ESWC P&D 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Trill.pdf
 Diefenbach2017d:
   year: 2017
-  citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE"
+  citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE 2017: 171-189"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-60131-1_10
   pdf: http://wdaqua.eu/assets/publications/2017_ICWE_Qanary.pdf
 Diefenbach2017e:
   year: 2017
-  citation: "SPARQLtoUser: Did the question answering system understand me?	Dennis Diefenbach, Youssef Dridi, Kamal Singh, Pierre Maret. ISWC Workshop"
+  citation: "SPARQLtoUser: Did the question answering system understand me? Dennis Diefenbach, Youssef Dridi, Kamal Singh, Pierre Maret. BLINK/NLIWoD3@ISWC 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ISWC_SPARQLtoUser.pdf
 Diefenbach2017f:
   year: 2017
-  citation: "Question Answering Benchmarks for Wikidata. Dennis Diefenbach, Thomas Pellissier Tanon, Kamal Singh, Pierre Maret. ISWC 2017"
+  citation: "Question Answering Benchmarks for Wikidata. Dennis Diefenbach, Thomas Pellissier Tanon, Kamal Singh, Pierre Maret. International Semantic Web Conference (Posters, Demos & Industry Tracks) 2017"
   pdf: http://wdaqua.eu/assets/publications/2017_ISWC_Posters__Question_Answering_Datasets_over_Wikdata.pdf
 Diefenbach2017g:
   year: 2017
-  citation: "Core Techniques of Question Answering Systems over Knowledge Bases: a Survey. Dennis Diefenbach, Vanessa Lopez, Kamal Singh, Pierre Maret. Knowledge and Information Systems"
+  citation: "Core Techniques of Question Answering Systems over Knowledge Bases: a Survey. Dennis Diefenbach, Vanessa Lopez, Kamal Singh, Pierre Maret. Knowledge and Information Systems (2017)"
   pdf: http://wdaqua.eu/assets/publications/2017_KAIS.pdf
+Diefenbach2017h:
+  year: 2017
+  citation: "Rapid Engineering of QA Systems Using the Light-Weight Qanary Architecture. Andreas Both, Kuldeep Singh, Dennis Diefenbach, Ioanna Lytra. ICWE 2017: 544-548"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-60131-1_40
+  pdf: https://www.researchgate.net/publication/315859644_Rapid_Engineering_of_QA_systems_using_the_light-weight_Qanary_Architecture
 Koesten2017a:
   year: 2017
-  citation: "Searching Data Portals – More Complex Than We Thought?. Laura M Koesten, Jaspreet Singh. CHIIR 2017. Workshop on Supporting Complex Search Tasks." 
+  citation: "Searching Data Portals - More Complex Than We Thought?. Laura M Koesten, Jaspreet Singh. CHIIR 2017. Workshop on Supporting Complex Search Tasks, SCST@CHIIR 2017: 25-28"
+  pdf: http://ceur-ws.org/Vol-1798/paper6.pdf
 Kacprzak2017:
   year: 2017
-  citation: "A Query Log Analysis of Dataset Search. Emilia Kacprzak, Laura M Koesten, Luis-Daniel Ibáñ ez, Elena Simperl, Jeni Tennison. ICWE 2017"
-Niousha2017a:
+  citation: "A Query Log Analysis of Dataset Search. Emilia Kacprzak, Laura M Koesten, Luis-Daniel Ibáñez, Elena Simperl, Jeni Tennison. ICWE 2017: 429-436"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-60131-1_29
+  pdf: 
+Gossen2016:
+  year: 2016
+  citation: "Analyzing Web archives through Topic and Event Focused Sub-Collections. Gerhard Gossen, Elena Demidova, Thomas Risse. WebSci 2016: 291-295"
+  url: https://dl.acm.org/citation.cfm?id=2908175
+  pdf: https://www.l3s.de/~gossen/publications/gossen_et_al_websci_2016.pdf
+Gottschalk2016:
+  year: 2016
+  citation: "Analysing Temporal Evolution of Interlingual Wikipedia Article Pairs. Simon Gottschalk, Elena Demidova. SIGIR 2016: 1089-1092"
+  url: https://dl.acm.org/citation.cfm?id=2911472
+  pdf: https://eprints.soton.ac.uk/393003/1/multiwiki_demo_paper.pdf
+Hady2017a:
   year: 2017
-  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D"
-  pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Qanary.pdf
-
+  citation: "Unsupervised Open Relation Extraction. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier and Frederique Laforest. ESWC P&D 2017"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-70407-4_3
+Lukovnikov2017:
+  year: 2017
+  citation: "Neural Network-based Question Answering over Knowledge Graphs on Word and Character Level. Denis Lukovnikov, Asja Fischer, Jens Lehmann, Sören Auer. WWW 2017: 1211-1220"
+  url: https://dl.acm.org/citation.cfm?id=3052675
+  pdf: http://jens-lehmann.org/files/2017/www_nn_factoid_qa.pdf
+Kaffee2017:
+  year: 2017
+  citation: "A Glimpse into Babel: An Analysis of Multilinguality in Wikidata. Lucie-Aimée Kaffee, Alessandro Piscopo, Pavlos Vougiouklis, Elena Simperl, Leslie Carr, Lydia Pintscher. OpenSym 2017: 14:1-14:5"
+  url: https://dl.acm.org/citation.cfm?doid=3125433.3125465
+  pdf: https://eprints.soton.ac.uk/413433/1/Open_Sym_Short_Paper_Wikidata_Multilingual.pdf
 ---

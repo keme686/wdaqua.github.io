@@ -9,6 +9,8 @@ start-date: 2015-07-08
 supervisors:
   - Frédérique Laforest
   - Christophe Gravier
+publications:
+  - Hady2017a
 homepage: http://hadyelsahar.github.io/
 email: hady.elsahar@univ-st-etienne.fr
 twitter: hadyelsahar

@@ -1,5 +1,6 @@
 _site/
 .sass-cache
+.idea
 
 assets/images/.DS_Store
 assets/.DS_Store

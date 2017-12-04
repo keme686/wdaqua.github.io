@@ -11,12 +11,13 @@ supervisors:
   - Antoine Zimmermann
 email: jose.gimenez.garcia <at> univ-st-etienne.fr
 twitter: chemi2g
-github: jm.gimenez.garcia
+github: jm-gimenez-garcia
 scholar: tCHjShcAAAAJ
 orcid: 0000-0001-7015-7896
 publications:
   - Gimenez2016Assessing
   - Gimenez2016Representing
+  - GimenezGarcia2016
   - Thakkar2016Wims
   - Gimenez2017MapReduce
   - Gimenez2017NdFluents

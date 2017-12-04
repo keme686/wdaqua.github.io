@@ -8,6 +8,10 @@ host: soton
 start-date: 2016-11-01
 supervisors:
   - Elena Simperl
+publications:
+  - Piscopo2017b
+  - Piscopo2017d
+  - Kaffee2017
 ---
 One of the greatest barriers in accessing knowledge online is language. There is a tendency to provide information in one particular language which makes it hard for speakers of all other languages to access that same information.
 

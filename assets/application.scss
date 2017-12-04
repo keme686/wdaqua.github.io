@@ -20,6 +20,7 @@ header #students {
 
 header #logo {
   position: absolute;
+  display: block;
   width: 40%;
   bottom: 15%;
   background-color: rgba(249,249,249,0.92);
@@ -121,7 +122,7 @@ article {
     font-size: 1.2em;
   }
 
-  border-bottom: thin solid $gray-lighter;
+  border-bottom: thick solid $blue;
 }
 
 .map, .viz {

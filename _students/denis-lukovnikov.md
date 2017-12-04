@@ -12,6 +12,7 @@ supervisors:
   - Ioanna Lytra
 publications:
   - Shekarpour2016
+  - Lukovnikov2017
 ---
 From the conducted literature study into Question Answering (QA) techniques and state-of-the-art machine learning techniques, we draw certain conclusions, defined some concrete points for current work, and defined the global vision and scope of the research.
 
