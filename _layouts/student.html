@@ -72,17 +72,35 @@ title: {{page.name}}
       {% endif %}
       {% if page.conference_reviewer %}
         <h2>Reviewer of :</h2>
+        <ul>
         {% for conference in page.conference_reviewer %}
           {% if conference.link %}
-             <p><a href="{{conference.link}}">
+             <li><a href="{{conference.link}}">
                 {{conference.name}}
-             </a></p>
+             </a></li>
           {% else %}
-      	     <p>
+      	     <li>
              {{conference.name}}
-             </p>
+             </li>
           {% endif %} 
         {% endfor %}
+        </ul>
+      {% endif %}
+      {% if page.conference_reviewer %}
+        <h2>Presentations :</h2>
+        <ul>
+        {% for presentation in page.presentations %}
+          {% if presentation.link %}
+             <li><a href="{{presentation.link}}">
+                {{presentation.name}}
+             </a></li>
+          {% else %}
+             <li>
+             {{presentation.name}}
+             </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
       {% endif %}
     </div>
     <div class="col-md-5 col-xs-12">
