@@ -27,6 +27,7 @@ publications:
 email: dennis.diefenbach@univ-st-etienne.fr
 github: D063520
 scholar: IHizMRoAAAAJ&hl
+orcid: 0000-0002-0046-2219
 students:
   - st1:
     start: 09/16
@@ -42,7 +43,32 @@ students:
     start: 05/17
     end: 07/17
     name: Shanzay Amjad
-    topic: Transform an industrial dataset in RDF to make QA on it 
+    topic: Transform an industrial dataset in RDF to make QA on it
+conference_reviewer:
+  - conf1:
+    name: QALD2017 CHALLENGE @ ESWC 2017
+    link: https://project-hobbit.eu/challenges/qald2017/
+  - conf2:
+    name: ISWC 2017
+    link: https://iswc2017.semanticweb.org/organization/research-track-pc/
+  - conf3:
+    name: QALD-8 CHALLENGE @ ISWC 2017
+    link: https://project-hobbit.eu/challenges/qald-8-challenge/
+  - conf4:
+    name: AAAI 2018
+  - conf5:
+    name: The Web Conference 2018
+    link: https://www2018.thewebconf.org/committees/program-committee-members/
+  - conf6:
+    name: HQA 2018&#58; First International Workshop on Hybrid Question Answering with Structured and Unstructured Knowledge
+    link: https://goasq.lri.fr/workshop/hqa18.html
+presentations:
+  - pres1:
+    name: WDAqua-core0&#58; A Question Answering component for the Research Community
+    link: http://videolectures.net/eswc2017_diefenbach_linked_data/
+  - pres2:
+    name: HDT as the backend engine for Query Answering over the Web of Data
+    link: https://rdfhdt.github.io/ISWC2017/
 ---
 Question Answering (QA) over Knowledge-Bases (KBs) is a very interesting research topic. A KB is a collection of facts. For example, DBpedia is a KB containing facts collected from <a href="http://www.wikipedia.org/">Wikipedia</a> like the birth date of persons, capitals of countries, museums in cities and many more. These facts are stored in machine readable formats and they can be retrieved using queries over databases. The information contained in such KBs can be very interesting for end-users, but we cannot require from them to write a formal query over a database (e.g. in <a href="https://www.w3.org/TR/rdf-sparql-query/">SPARQL</a>). This is where Question Answering over KBs comes into play, i.e. to automatically transform a natural language question like "Who is the mayor of Paris?" to a formal query that can be executed over a KB.
 
