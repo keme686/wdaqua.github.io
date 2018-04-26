@@ -44,6 +44,15 @@ students:
     end: 07/17
     name: Shanzay Amjad
     topic: Transform an industrial dataset in RDF to make QA on it
+  - st4:
+    start: 01/18
+    end: 06/18
+    name: Pierre Tardiveau
+    topic: User interfaces for Question Answering Systems
+  - st5:
+    start: 04/18
+    name: Pedro Migliatti
+    topic: Making datasets fit for Question Answering
 conference_reviewer:
   - conf1:
     name: QALD2017 CHALLENGE @ ESWC 2017
@@ -62,6 +71,9 @@ conference_reviewer:
   - conf6:
     name: HQA 2018&#58; First International Workshop on Hybrid Question Answering with Structured and Unstructured Knowledge
     link: https://goasq.lri.fr/workshop/hqa18.html
+  - conf7:
+    name: Visual Interfaces for Big Data Enviroments in Industrial Applications
+    link: http://visbia.mediadesign-tud.de/committee/
 presentations:
   - pres1:
     name: WDAqua-core0&#58; A Question Answering component for the Research Community
