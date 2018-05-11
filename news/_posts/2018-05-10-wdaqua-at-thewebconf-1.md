@@ -1,6 +1,6 @@
 ---
 title: WDAqua@The Web Conference 2018 - Part 1
-summary: The Web Conference 2018 took place from 23 to 27 April 2018. It was a massive event and WDAqua was present in various forms, of which we write in this post (part 1).
+summary: The Web Conference 2018 took place from 23 to 27 April 2018. This and the next post are an account of the contributions made by WDAqua.
 ---
 The Web Conference took place from the 23rd to the 27th of April  in Lyon. It was a massive event, with more than 2000 attendees, 1172 paper submissions to the research track, 27 workshops, 30 demos, and more.
 
@@ -15,14 +15,10 @@ The two keynotes hosted by the workshop reflected this diversity of perspectives
 
 The workshop included a paper presentation from one WDAqua student, [Emilia Kacprzak](http://wdaqua.eu/students/emilia-kacprzak/). Her work focused on understanding how people write queries to look for data and what is important in data requests. The paper can be found [here](https://dl.acm.org/citation.cfm?id=3191597).
 
-The panel, formed by [Paul Groth](http://pgroth.com/), [Aidan Hogan](http://aidanhogan.com), [Jeni Tennison](https://www.jenitennison.com), [Stefan Dietze](https://stefandietze.wordpress.com/) and [Natasha Noy](https://research.google.com/pubs/NatalyaNoy.html)), revolved around the question “do we need a Google for data?”.
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Listening to the best panel with <a href="https://twitter.com/JeniT?ref_src=twsrc%5Etfw">@JeniT</a> <a href="https://twitter.com/stefandietze?ref_src=twsrc%5Etfw">@stefandietze</a> <a href="https://twitter.com/pgroth?ref_src=twsrc%5Etfw">@pgroth</a> , Natasha Noy and Aidan Hogan answering the question “Do we need a Google for data?” (and how could it look like?) at our Profiling &amp; Data Search workshop <a href="https://twitter.com/TheWebConf?ref_src=twsrc%5Etfw">@TheWebConf</a> <a href="https://twitter.com/hashtag/datasearch?src=hash&amp;ref_src=twsrc%5Etfw">#datasearch</a> <a href="https://t.co/eFxtfcV9XL">pic.twitter.com/eFxtfcV9XL</a></p>&mdash; laura (@laurakoesten) <a href="https://twitter.com/laurakoesten/status/988788631836987393?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The answers were quite nuanced: although the participants agreed with the need to have powerful search instruments for data, they highlighted various points, such as valuing the importance of using currently existing tools [check] and of having domain-specific tools.
-
-For those who missed it at The Web Conference, a new edition of the DATA:SEARCH workshop has been already planned for SIGIR’18.
+The level of the panel was exceptionally good. Its members – [Paul Groth](http://pgroth.com/), [Aidan Hogan](http://aidanhogan.com), [Jeni Tennison](https://www.jenitennison.com), [Stefan Dietze](https://stefandietze.wordpress.com/) and [Natasha Noy](https://research.google.com/pubs/NatalyaNoy.html)) – debated the question “do we need a Google for data?”. The answers were quite nuanced: although the participants agreed with the need to have powerful search instruments for data, their perspectives differed in terms of which points they stressed the most, e.g. valuing the importance of using currently existing tools or having domain-specific search portals. For those who missed it at The Web Conference, a new edition of the DATA:SEARCH workshop has already been already planned for SIGIR’18.
 
 Members of WDAqua took part also in other workshops. [Elena Simperl](http://wdaqua.eu/supervisors/elena-simperl/) was one of the keynote speakers at the [HUML workshop](https://humlworkshop.github.io/HumL-WWW2018/). She presented the work done with her supervisees [Alessandro Piscopo](http://wdaqua.eu/students/alessandro-piscopo/) and [Lucie Kaffee](http://wdaqua.eu/students/lucie-aim%C3%A9e-kaffee/) about Wikidata’s social fabric and the effect of human and automated contributions on its data quality.
 
@@ -33,7 +29,3 @@ Last but not least, [Lucie](http://wdaqua.eu/students/lucie-aim%C3%A9e-kaffee/) 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Wikidata’s schema is edited by its community–is that a sustainable model? <a href="https://twitter.com/frimelle?ref_src=twsrc%5Etfw">@frimelle</a> <a href="https://twitter.com/hashtag/wikiworkshop2018?src=hash&amp;ref_src=twsrc%5Etfw">#wikiworkshop2018</a> <a href="https://twitter.com/hashtag/theWebConf?src=hash&amp;ref_src=twsrc%5Etfw">#theWebConf</a> <a href="https://t.co/xtOujCq4Yf">pic.twitter.com/xtOujCq4Yf</a></p>&mdash; Wiki Workshop 2018 (@wikiworkshop) <a href="https://twitter.com/wikiworkshop/status/988719613197381632?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-The participation of WDAqua to The Web Conference does not end here, we present other contributions in the next post.
-
