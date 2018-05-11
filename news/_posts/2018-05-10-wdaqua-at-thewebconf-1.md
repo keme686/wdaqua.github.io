@@ -17,12 +17,10 @@ The workshop included a paper presentation from one WDAqua student, [Emilia Kacp
 
 The panel was formed by [Paul Groth](http://pgroth.com/), [Aidan Hogan](http://aidanhogan.com), [Jeni Tennison](https://www.jenitennison.com), [Stefan Dietze](https://stefandietze.wordpress.com/) and [Natasha Noy](https://research.google.com/pubs/NatalyaNoy.html)) revolved around the question “do we need a Google for data?”.
 
-
-<div class="tweet-img">
-	<a href="https://twitter.com/laurakoesten/status/988788631836987393"  target="_blank">
-		<img src="/assets/images/news/2018-05-10/panel.png" alt="Workshop panel" border="2px" width="500">
-	</a>
-</div>
+<div class="test">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Listening to the best panel with <a href="https://twitter.com/JeniT?ref_src=twsrc%5Etfw">@JeniT</a> <a href="https://twitter.com/stefandietze?ref_src=twsrc%5Etfw">@stefandietze</a> <a href="https://twitter.com/pgroth?ref_src=twsrc%5Etfw">@pgroth</a> , Natasha Noy and Aidan Hogan answering the question “Do we need a Google for data?” (and how could it look like?) at our Profiling &amp; Data Search workshop <a href="https://twitter.com/TheWebConf?ref_src=twsrc%5Etfw">@TheWebConf</a> <a href="https://twitter.com/hashtag/datasearch?src=hash&amp;ref_src=twsrc%5Etfw">#datasearch</a> <a href="https://t.co/eFxtfcV9XL">pic.twitter.com/eFxtfcV9XL</a></p>&mdash; laura (@laurakoesten) <a href="https://twitter.com/laurakoesten/status/988788631836987393?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 
  The answers were quite nuanced: although the participants agreed with the need to have powerful search instruments for data, they highlighted various points, such as valuing the importance of using currently existing tools [check] and of having domain-specific tools.
 
