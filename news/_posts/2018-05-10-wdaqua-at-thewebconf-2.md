@@ -14,8 +14,7 @@ On the second day of the main conference, [Kuldeep Singh](http://wdaqua.eu/stude
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is the outcome of Kuldeep’s and other WDAqua members’ work and addresses the question of how to flexibly integrate different components in a Question-Answering pipeline, in order to optimise its performance. The answer to that is an approach that uses machine learning to select the best performing components for the input questions. This approach is implemented in Frankenstein, a QA framework able to select QA components and compose QA pipelines. We knew Frankenstein could infuse life into creatures, but apparently from now on it can contribute to (Artificial) Intelligence!
-
-![Frankenstein](/assets/images/news/2018-05-10/frankenstein.jpg){:.center-image width="500px"}
+<!-- ![Frankenstein](/assets/images/news/2018-05-10/frankenstein.jpg){:.center-image width="500px"}-->
 
 If you feel enticed by this description and want to know more, the paper can be found [here](https://dl.acm.org/citation.cfm?id=3186023) or you can watch Kuldeep’s presentation below.
 
