@@ -12,5 +12,4 @@ The first interview of this series has been conducted with [Dennis Diefenbach](h
 
 <div align="center"> 
 <iframe width="500" height="300" src="https://www.youtube-nocookie.com/embed/e009i333JWI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</iframe>
 </div>
