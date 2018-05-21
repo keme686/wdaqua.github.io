@@ -1,5 +1,5 @@
 ---
-title: Meet our Early Stage Researchers: Harsh Thakkar
+title: Meet our Early Stage Researchers - Harsh Thakkar
 summary: The second video of our series of interviews to our ESRs.
 ---
 
