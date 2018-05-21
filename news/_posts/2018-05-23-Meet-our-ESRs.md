@@ -8,7 +8,7 @@ They have all different motivations and backgrounds, but work together in WDAqua
 
 We interviewed them to have a chance to get to know them more personally, to present the outcomes of their research, and to have a glimpse of the life of Marie Curie ITN ESRs.
 
-The first interview of this series has been conducted with [Dennis Diefenbach](http://wdaqua.eu/students/dennis-diefenbach/). 
+The first interview of this series has been with [Dennis Diefenbach](http://wdaqua.eu/students/dennis-diefenbach/). Enjoy!
 
 <div align="center"> 
 <iframe width="500" height="300" src="https://www.youtube-nocookie.com/embed/e009i333JWI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
