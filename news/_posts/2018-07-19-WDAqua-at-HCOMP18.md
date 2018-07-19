@@ -1,11 +1,9 @@
 ---
 title: WDAqua@HCOMP2018
-summary: HCOMP 2018 took place from the 5rd to the 8th of July 2018. This post is an account of the contributions made by WDAqua.
+summary: The  6th AAAI Conference on Human Computation and Crowdsourcing (aka [HCOMP 2018](https://www.humancomputation.com/2018/index.html)) was held in Zurich from the 5th to the 8th of July. This year the conference was back in Europe, after seven editions in the US. This post gives an account of the contributions made by WDAqua.
 ---
 
-The  6th AAAI Conference on Human Computation and Crowdsourcing (aka [HCOMP 2018](https://www.humancomputation.com/2018/index.html)) was held in Zurich from the 5th to the 8th of June. This year the conference was back in Europe, after seven editions in the US.
-
-Whilst HCOMP focuses on research around crowdsourcing and human computation, it encourages interdisciplinary contributions ranging from HCI and artificial intelligence, to economics and social sciences, and it is open to researchers and practitioners alike. WDAqua was present at HCOMP with various contributions. 
+Whilst HCOMP focuses on research around crowdsourcing and human computation, it encourages interdisciplinary contributions ranging from HCI and artificial intelligence, to economics and social sciences, and it is open to researchers and practitioners alike. WDAqua was at HCOMP with various types of contributions. 
 
  One of our ESRs, [Pavlos Vouglioukis](http://wdaqua.eu/students/pavlos-vougiouklis/) was among the authors of the paper [*How biased is your NLG
 evaluation?*](https://www.alessandrochecco.info/static/CrowdBias2018_paper_8.pdf), which won the best paper award at the CrowdBias workshop.
