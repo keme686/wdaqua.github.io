@@ -24,6 +24,10 @@ publications:
   - Diefenbach2017f
   - Diefenbach2017g
   - Diefenbach2017h
+  - Diefenbach2018a
+  - Diefenbach2018b
+  - Diefenbach2018c
+  - Diefenbach2018d
 email: dennis.diefenbach@univ-st-etienne.fr
 github: D063520
 scholar: IHizMRoAAAAJ&hl
@@ -46,11 +50,12 @@ students:
     topic: Transform an industrial dataset in RDF to make QA on it
   - st4:
     start: 01/18
-    end: 06/18
+    end: 07/18
     name: Pierre Tardiveau
     topic: User interfaces for Question Answering Systems
   - st5:
     start: 04/18
+    end: 07/18
     name: Pedro Migliatti
     topic: Making datasets fit for Question Answering
 conference_reviewer:
@@ -74,6 +79,15 @@ conference_reviewer:
   - conf7:
     name: Visual Interfaces for Big Data Enviroments in Industrial Applications
     link: http://visbia.mediadesign-tud.de/committee/
+  - conf9:
+    name: Scalable Question Answering Challenge (SQA) @ ESWC 2018
+    link: https://project-hobbit.eu/challenges/sqa-challenge-eswc-2018/
+  - conf10:
+    name: ISWC 2018
+    link: http://iswc2018.semanticweb.org/research-track-pc/
+  - conf11:
+    name: Special Issue on Knowledge Graphs&#58; Construction, Management and Querying @ Semantic Web Journal
+    link: http://www.semantic-web-journal.net/blog/call-papers-special-issue-knowledge-graphs-construction-management-and-querying
 presentations:
   - pres1:
     name: WDAqua-core0&#58; A Question Answering component for the Research Community
@@ -81,6 +95,13 @@ presentations:
   - pres2:
     name: HDT as the backend engine for Query Answering over the Web of Data
     link: https://rdfhdt.github.io/ISWC2017/
+  - pres3:
+    name: WDAqua-core1&#58; a Question Answering service for RDF Knowledge Bases
+    link: https://goasq.lri.fr/workshop/hqa18.html
+  - pres4:
+    name: PageRank and Generic Entity Summarization for RDF Knowledge Bases @ ESWC 2018
+    link: http://videolectures.net/eswc2018_diefenbach_thalhammer_pagerank/?q=eswc%202018
+  
 ---
 Question Answering (QA) over Knowledge-Bases (KBs) is a very interesting research topic. A KB is a collection of facts. For example, DBpedia is a KB containing facts collected from <a href="http://www.wikipedia.org/">Wikipedia</a> like the birth date of persons, capitals of countries, museums in cities and many more. These facts are stored in machine readable formats and they can be retrieved using queries over databases. The information contained in such KBs can be very interesting for end-users, but we cannot require from them to write a formal query over a database (e.g. in <a href="https://www.w3.org/TR/rdf-sparql-query/">SPARQL</a>). This is where Question Answering over KBs comes into play, i.e. to automatically transform a natural language question like "Who is the mayor of Paris?" to a formal query that can be executed over a KB.
 

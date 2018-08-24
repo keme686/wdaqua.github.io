@@ -216,4 +216,24 @@ Kaffee2017:
   citation: "A Glimpse into Babel: An Analysis of Multilinguality in Wikidata. Lucie-Aimée Kaffee, Alessandro Piscopo, Pavlos Vougiouklis, Elena Simperl, Leslie Carr, Lydia Pintscher. OpenSym 2017: 14:1-14:5"
   url: https://dl.acm.org/citation.cfm?doid=3125433.3125465
   pdf: https://eprints.soton.ac.uk/413433/1/Open_Sym_Short_Paper_Wikidata_Multilingual.pdf
+Diefenbach2018a:
+  year: 2018
+  citation: "Lessons Learned from a Knowledge-driven Search Application on-top of Large Data Sets. Dennis Diefenbach, Andreas Both, Kuldeep Singh, Pierre Maret. VisBIA 2018"
+  pdf: http://ceur-ws.org/Vol-2108/paper4.pdf
+  url: http://ceur-ws.org/Vol-2108/paper4.pdf
+Diefenbach2018b:
+  year: 2018
+  citation: "Towards a Question Answering System over the Semantic Web. Dennis Diefenbach, Andreas Both, Kamal Singh, Pierre Maret."
+  url: https://arxiv.org/pdf/1803.00832.pdf
+  pdf: https://arxiv.org/pdf/1803.00832.pdf
+Diefenbach2018c:
+  year: 2018
+  citation: "WDAqua-core1: A Question Answering service for RDF Knowledge Bases. Dennis Diefenbach, Kamal Singh, Pierre Maret. Companion of the The Web Conference 2018"
+  url: https://www.researchgate.net/profile/Dennis_Diefenbach/publication/323772290_WDAqua-core1_A_Question_Answering_service_for_RDF_Knowledge_Bases/links/5aafb8e2458515ecebea0496/WDAqua-core1-A-Question-Answering-service-for-RDF-Knowledge-Bases.pdf
+  pdf: https://www.researchgate.net/profile/Dennis_Diefenbach/publication/323772290_WDAqua-core1_A_Question_Answering_service_for_RDF_Knowledge_Bases/links/5aafb8e2458515ecebea0496/WDAqua-core1-A-Question-Answering-service-for-RDF-Knowledge-Bases.pdf
+Diefenbach2018d:
+  year: 2018
+  citation: "Pagerank and generic entity summarization for rdf knowledge bases. Dennis Diefenbach, Andreas Thalhammer. ESWC 2018"
+  url: https://www.researchgate.net/publication/324079759_PageRank_and_Generic_Entity_Summarization_for_RDF_Knowledge_Bases
+  pdf: https://www.researchgate.net/publication/324079759_PageRank_and_Generic_Entity_Summarization_for_RDF_Knowledge_Bases
 ---
