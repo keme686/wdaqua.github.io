@@ -1,4 +1,8 @@
 ---
+Endris2018a:
+  year: 2018
+  citation: "BOUNCER: Privacy-aware Query Processing Over Federations of RDF Datasets. Endris, Kemele M., Almhithawi, Z., Lytra, Ioanna, Vidal, Maria-Esther, & Auer, Sören. DEXA2018"
+  pdf: https://www.repo.uni-hannover.de/bitstream/handle/123456789/3494/camera-ready.pdf?sequence=1&isAllowed=y
 Endris2017m:
   year: 2017
   citation: "SMJoin: A Multi-way Join Operator for SPARQL queries. Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören. SEMANTiCS 2017"
