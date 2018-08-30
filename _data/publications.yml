@@ -1,4 +1,7 @@
 ---
+Endris2018b:
+  year: 2018
+  citation: "Querying Interlinked Data by Bridging RDF Molecule Templates. Kemele M. Endris, Mikhail Galkin, Ioanna Lytra, Mohamed Nadjib Mami, Maria-Esther Vidal, Sören Auer. TLDKS 2018"
 Endris2017m:
   year: 2017
   citation: "SMJoin: A Multi-way Join Operator for SPARQL queries. Galkin, Mikhail and Endris, Kemele and Acosta, Maribel and Collarana, Diego and Vidal, Maria-Esther and Auer, Sören. SEMANTiCS 2017"
