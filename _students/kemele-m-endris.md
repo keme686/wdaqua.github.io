@@ -15,6 +15,8 @@ github: keme686
 scholar: KJKcA2UAAAAJ
 orcid: 0000-0001-9040-9421
 publications:
+  - Endris2018a
+  - Endris2018b
   - Endris2017s
   - Endris2017
   - Endris2017m
